@@ -54,7 +54,6 @@
   </action>
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="f11" />
-    <keyboard-shortcut first-keystroke="f" />
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="ToggleLineBreakpoint">

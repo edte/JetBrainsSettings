@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="goland takes into account where your caret is" />
+      <item value="dump" />
+      <item value="the caret now is at the end o the line 15" />
       <item value="smart type completion filters the list of suggetion to include only those types that are applicatble in the current context" />
       <item value="select message inside the lookup menu and press enter" />
       <item value="context-aware code completion speeds up the process of coding and reduces a number of typos" />
