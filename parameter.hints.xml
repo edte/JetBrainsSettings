@@ -5,6 +5,5 @@
         <added pattern="FUNCTION:learn-go-project#printAll(s,i,b,u,by,r,f,c)" />
       </blacklist>
     </blacklists>
-    <option id="go.struct.unnamed.struct.fields" value="false" />
   </component>
 </application>
