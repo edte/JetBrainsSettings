@@ -25,7 +25,7 @@
         <entry key="debug function calls" value="PASSED" />
         <entry key="dump_goroutines" value="PASSED" />
         <entry key="editorbasics.commentline" value="PASSED" />
-        <entry key="fixing a test file" value="NOT_PASSED" />
+        <entry key="fixing a test file" value="PASSED" />
         <entry key="generate missing methods" value="PASSED" />
         <entry key="generate_getters_and_setters" value="PASSED" />
         <entry key="go_var_check_error_postfix_template" value="PASSED" />
@@ -51,7 +51,7 @@
         <entry key="navigation from comments" value="PASSED" />
         <entry key="postfix completion with sort" value="PASSED" />
         <entry key="postfix templates (nn, panic, rr, and return)" value="PASSED" />
-        <entry key="quick-fixes, refactorings, and external documentation" value="NOT_PASSED" />
+        <entry key="quick-fixes, refactorings, and external documentation" value="PASSED" />
         <entry key="quick_fixes_create_type_and_type_incompatibility" value="PASSED" />
         <entry key="select" value="PASSED" />
         <entry key="smart type completion" value="PASSED" />
