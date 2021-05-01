@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="smart type completion filters the list of suggetion to include only those types that are applicatble in the current context" />
+      <item value="select message inside the lookup menu and press enter" />
       <item value="context-aware code completion speeds up the process of coding and reduces a number of typos" />
       <item value="for example,let's comment out the selected block" />
       <item value="you can comment out a block of code" />

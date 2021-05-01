@@ -17,7 +17,7 @@
     <option name="map">
       <map>
         <entry key="actions" value="PASSED" />
-        <entry key="basic completion" value="NOT_PASSED" />
+        <entry key="basic completion" value="PASSED" />
         <entry key="code completion for functions" value="NOT_PASSED" />
         <entry key="code_completion_for_benchmarks_bn" value="NOT_PASSED" />
         <entry key="code_completion_for_time_package" value="PASSED" />
@@ -54,7 +54,7 @@
         <entry key="quick-fixes, refactorings, and external documentation" value="NOT_PASSED" />
         <entry key="quick_fixes_create_type_and_type_incompatibility" value="PASSED" />
         <entry key="select" value="PASSED" />
-        <entry key="smart type completion" value="NOT_PASSED" />
+        <entry key="smart type completion" value="PASSED" />
         <entry key="smart type completion and pointers" value="NOT_PASSED" />
         <entry key="smart type completion for type assertions and switch constructions" value="NOT_PASSED" />
         <entry key="struct inspections" value="PASSED" />
