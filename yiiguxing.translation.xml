@@ -1,23 +1,56 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="锁" />
-      <item value="lock" />
-      <item value="awake" />
-      <item value="* Note that some architectures have special knowledge about the * stack frames of these functions in their profile_pc. If you * change anything significant here that could change the stack * frame contact the architecture maintainers." />
-      <item value="down interruptible" />
-      <item value="deprecated" />
-      <item value="* The spinlock controls access to the other members of the semaphore. * down_trylock() and up() can be called from interrupt context, so we * have to disable interrupts when taking the lock. It turns out various * parts of the kernel expect to be able to use down() on a semaphore in * interrupt context when they know it will succeed, so we have to use * irqsave variants for down(), down_interruptible() and down_killable() * too." />
-      <item value="* The spinlock controls access to the other members of the semaphore." />
-      <item value="* This file implements counting semaphores. * A counting semaphore may be acquired 'n' times before sleeping. * See mutex.c for single-acquisition sleeping locks which enforce * rules which allow code to be debugged more easily" />
-      <item value="single-acquisition" />
-      <item value="counting semaphores" />
-      <item value="implements" />
-      <item value="detach" />
-      <item value="pthread detach" />
-      <item value="优先级" />
-      <item value="计算" />
-      <item value="合并" />
+      <item value="extract variables" />
+      <item value="working with variadic functions" />
+      <item value="variadic" />
+      <item value="refactoring hleps you keep you code solid,dry,and easy to maintain" />
+      <item value="greet" />
+      <item value="as far as the are not used" />
+      <item value="as far as the are not usrd" />
+      <item value="goland can detect parameters in the signature taht are not userd in the body of a method or a function" />
+      <item value="detect" />
+      <item value="keep indents on empty lines" />
+      <item value="a" />
+      <item value="the next eror is quite obvious" />
+      <item value="not a decimal string representation that we expect" />
+      <item value="this string conversion returns a utf-8 representation of the unicode code point" />
+      <item value="we will apply all the fixes in the editor" />
+      <item value="bug some issues require certain actions in the editor" />
+      <item value="some issues you can fix in the problems tool window itself" />
+      <item value="there are a few issues that need our attention." />
+      <item value="intention actions can suggest you an alternative variant for your code or even a solution for a detected problem" />
+      <item value="specify parameter names even if they are omitted in the interface definition" />
+      <item value="you can generate missing methods" />
+      <item value="with implement methods action" />
+      <item value="code completion suggests local variables and zero values even if they result in an error" />
+      <item value="if the carets stays after the return keyword inside a function" />
+      <item value="actions and templates that generate code chunks" />
+      <item value="intentions actions" />
+      <item value="actions" />
+      <item value="intentions" />
+      <item value="intention" />
+      <item value="goland takes into account where your caret is" />
+      <item value="dump" />
+      <item value="the caret now is at the end o the line 15" />
+      <item value="smart type completion filters the list of suggetion to include only those types that are applicatble in the current context" />
+      <item value="select message inside the lookup menu and press enter" />
+      <item value="context-aware code completion speeds up the process of coding and reduces a number of typos" />
+      <item value="for example,let's comment out the selected block" />
+      <item value="you can comment out a block of code" />
+      <item value="it is up to yo what to use" />
+      <item value="alternatively" />
+      <item value="it lets you search thorough all available actions without having to know their individaul shorcuts" />
+      <item value="shortcuts" />
+      <item value="one of the most useful shortcuts is find action" />
+      <item value="place the caret before any word" />
+      <item value="word" />
+      <item value="caret" />
+      <item value="expand and shrink the code selection" />
+      <item value="the context.CancelFunc is not called code inspection checks that is the cancel function returned by context.WithCancel and similar funcitons is called on all the execution paths" />
+      <item value="detected" />
+      <item value="navigate to detected issues" />
+      <item value="to navigate to the functino declaration from this comment,place the caret at the function name in the comment and press ctrl + B" />
     </histories>
     <option name="languageScores">
       <map>
@@ -25,5 +58,8 @@
         <entry key="ENGLISH" value="15" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1619841271885" />
   </component>
 </application>
