@@ -1,6 +1,32 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="context-aware code completion speeds up the process of coding and reduces a number of typos" />
+      <item value="for example,let's comment out the selected block" />
+      <item value="you can comment out a block of code" />
+      <item value="it is up to yo what to use" />
+      <item value="alternatively" />
+      <item value="it lets you search thorough all available actions without having to know their individaul shorcuts" />
+      <item value="shortcuts" />
+      <item value="one of the most useful shortcuts is find action" />
+      <item value="place the caret before any word" />
+      <item value="word" />
+      <item value="caret" />
+      <item value="expand and shrink the code selection" />
+      <item value="the context.CancelFunc is not called code inspection checks that is the cancel function returned by context.WithCancel and similar funcitons is called on all the execution paths" />
+      <item value="detected" />
+      <item value="navigate to detected issues" />
+      <item value="to navigate to the functino declaration from this comment,place the caret at the function name in the comment and press ctrl + B" />
+      <item value="to" />
+      <item value="like the createJSON function in the comment section at the line 32." />
+      <item value="names of such methods, functions,and structs in comments are colered a little bit differently" />
+      <item value="in the ide,you can go to declarations from comments if these declarations are in the same package." />
+      <item value="but some packages might be huge with hundreds of code and comment lines" />
+      <item value="our main package is not that large and we can easily navigate in it" />
+      <item value="navigate in" />
+      <item value="navigate" />
+      <item value="conventions" />
+      <item value="inspections" />
       <item value="锁" />
       <item value="lock" />
       <item value="awake" />
@@ -25,5 +51,8 @@
         <entry key="ENGLISH" value="15" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1619841271885" />
   </component>
 </application>
