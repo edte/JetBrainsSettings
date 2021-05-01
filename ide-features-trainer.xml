@@ -19,7 +19,7 @@
         <entry key="actions" value="PASSED" />
         <entry key="basic completion" value="PASSED" />
         <entry key="code completion for functions" value="PASSED" />
-        <entry key="code_completion_for_benchmarks_bn" value="NOT_PASSED" />
+        <entry key="code_completion_for_benchmarks_bn" value="PASSED" />
         <entry key="code_completion_for_time_package" value="PASSED" />
         <entry key="completion with tab" value="PASSED" />
         <entry key="debug function calls" value="PASSED" />
@@ -47,7 +47,7 @@
         <entry key="gophercon.rename" value="NOT_PASSED" />
         <entry key="handling errors with live and postfix templates: if and rr" value="NOT_PASSED" />
         <entry key="handling_unhandled_errors" value="PASSED" />
-        <entry key="live and postfix templates: else, fori, and vars" value="NOT_PASSED" />
+        <entry key="live and postfix templates: else, fori, and vars" value="PASSED" />
         <entry key="navigation from comments" value="PASSED" />
         <entry key="postfix completion with sort" value="PASSED" />
         <entry key="postfix templates (nn, panic, rr, and return)" value="PASSED" />
