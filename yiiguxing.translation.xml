@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="extract variables" />
+      <item value="working with variadic functions" />
+      <item value="variadic" />
+      <item value="refactoring hleps you keep you code solid,dry,and easy to maintain" />
       <item value="greet" />
       <item value="as far as the are not used" />
       <item value="as far as the are not usrd" />
@@ -47,10 +51,6 @@
       <item value="detected" />
       <item value="navigate to detected issues" />
       <item value="to navigate to the functino declaration from this comment,place the caret at the function name in the comment and press ctrl + B" />
-      <item value="to" />
-      <item value="like the createJSON function in the comment section at the line 32." />
-      <item value="names of such methods, functions,and structs in comments are colered a little bit differently" />
-      <item value="in the ide,you can go to declarations from comments if these declarations are in the same package." />
     </histories>
     <option name="languageScores">
       <map>
