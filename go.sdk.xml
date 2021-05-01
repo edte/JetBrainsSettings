@@ -1,0 +1,10 @@
+<application>
+  <component name="GoSdkList">
+    <sdk-url>
+      <set>
+        <option value="file://C:/Go" />
+        <option value="file://$USER_HOME$/go/go1.16.3" />
+      </set>
+    </sdk-url>
+  </component>
+</application>
