@@ -1,0 +1,27 @@
+<templateSet group="C/C++">
+  <template name="main" value="int main(void) {&#10;    $END$&#10;    &#10;    return 0;&#10;}&#10;" description="create main function" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="c" value="true" />
+    </context>
+  </template>
+  <template name="fu" value="void $NAME$() {&#10;    $END$&#10;    &#10;    return ;&#10;}&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="c" value="true" />
+    </context>
+  </template>
+  <template name="mian" value="int main(void) {&#10;    $END$&#10;    &#10;    return 0;&#10;}&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="c" value="true" />
+    </context>
+  </template>
+  <template name="ma" value="int main(void) {&#10;    $END$&#10;    &#10;    return 0;&#10;}&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="c" value="true" />
+    </context>
+  </template>
+  <template name="for" value="for (int i = 0; i &lt; $INDEX$; i++) {&#10;  $END$&#10;}" description="Indexed for(;;) loop" toReformat="true" toShortenFQNames="true">
+    <variable name="INDEX" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>

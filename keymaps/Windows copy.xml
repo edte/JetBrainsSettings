@@ -1,16 +1,15 @@
 <keymap version="1" name="Windows copy" parent="$default">
-  <action id="ActivateEventLogToolWindow">
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateMessagesToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
-  <action id="ActivateFindToolWindow" />
   <action id="ActivateServicesToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
-  <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="ctrl space" />
-    <keyboard-shortcut first-keystroke="ctrl comma" />
+  <action id="CPP.NewCppFile">
+    <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="ContextDebug">
     <keyboard-shortcut first-keystroke="alt d" />
@@ -23,7 +22,6 @@
   <action id="GotoBookmark1" />
   <action id="GotoBookmark2" />
   <action id="GotoBookmark3" />
-  <action id="GotoBookmark8" />
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="ctrl 2" />
@@ -39,13 +37,5 @@
   <action id="ShowErrorDescription">
     <keyboard-shortcut first-keystroke="ctrl f1" />
     <keyboard-shortcut first-keystroke="ctrl 1" />
-  </action>
-  <action id="ToggleBookmark">
-    <keyboard-shortcut first-keystroke="f11" />
-    <keyboard-shortcut first-keystroke="alt v" />
-  </action>
-  <action id="ToggleLineBreakpoint">
-    <keyboard-shortcut first-keystroke="ctrl f8" />
-    <keyboard-shortcut first-keystroke="alt f" />
   </action>
 </keymap>
