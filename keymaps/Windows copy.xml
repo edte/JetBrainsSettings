@@ -48,4 +48,17 @@
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="ctrl f2" />
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="f11" />
+    <keyboard-shortcut first-keystroke="f" />
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="ctrl f8" />
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
 </keymap>

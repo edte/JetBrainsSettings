@@ -18,10 +18,10 @@
       <map>
         <entry key="actions" value="PASSED" />
         <entry key="basic completion" value="PASSED" />
-        <entry key="code completion for functions" value="NOT_PASSED" />
+        <entry key="code completion for functions" value="PASSED" />
         <entry key="code_completion_for_benchmarks_bn" value="NOT_PASSED" />
         <entry key="code_completion_for_time_package" value="PASSED" />
-        <entry key="completion with tab" value="NOT_PASSED" />
+        <entry key="completion with tab" value="PASSED" />
         <entry key="debug function calls" value="NOT_PASSED" />
         <entry key="dump_goroutines" value="NOT_PASSED" />
         <entry key="editorbasics.commentline" value="PASSED" />
@@ -36,7 +36,7 @@
         <entry key="goland2019.3.deleteparameternames" value="NOT_PASSED" />
         <entry key="goland2019.3.deleteunusedparameters" value="NOT_PASSED" />
         <entry key="goland2019.3.extractvariablewitherror" value="NOT_PASSED" />
-        <entry key="goland2019.3.forrlivetemplate" value="NOT_PASSED" />
+        <entry key="goland2019.3.forrlivetemplate" value="PASSED" />
         <entry key="goland2019.3.reusesignaturetypes" value="NOT_PASSED" />
         <entry key="gophercon.codeformatting" value="PASSED" />
         <entry key="gophercon.extractfunction/method" value="NOT_PASSED" />
@@ -49,14 +49,14 @@
         <entry key="handling_unhandled_errors" value="PASSED" />
         <entry key="live and postfix templates: else, fori, and vars" value="NOT_PASSED" />
         <entry key="navigation from comments" value="PASSED" />
-        <entry key="postfix completion with sort" value="NOT_PASSED" />
-        <entry key="postfix templates (nn, panic, rr, and return)" value="NOT_PASSED" />
+        <entry key="postfix completion with sort" value="PASSED" />
+        <entry key="postfix templates (nn, panic, rr, and return)" value="PASSED" />
         <entry key="quick-fixes, refactorings, and external documentation" value="NOT_PASSED" />
         <entry key="quick_fixes_create_type_and_type_incompatibility" value="PASSED" />
         <entry key="select" value="PASSED" />
         <entry key="smart type completion" value="PASSED" />
-        <entry key="smart type completion and pointers" value="NOT_PASSED" />
-        <entry key="smart type completion for type assertions and switch constructions" value="NOT_PASSED" />
+        <entry key="smart type completion and pointers" value="PASSED" />
+        <entry key="smart type completion for type assertions and switch constructions" value="PASSED" />
         <entry key="struct inspections" value="PASSED" />
         <entry key="support_for_table_tests" value="NOT_PASSED" />
         <entry key="support_of_go_embed" value="PASSED" />
