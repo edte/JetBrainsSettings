@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="monk" />
+      <item value="modk" />
+      <item value="bocket" />
       <item value="extract variables" />
       <item value="working with variadic functions" />
       <item value="variadic" />
@@ -48,9 +51,6 @@
       <item value="caret" />
       <item value="expand and shrink the code selection" />
       <item value="the context.CancelFunc is not called code inspection checks that is the cancel function returned by context.WithCancel and similar funcitons is called on all the execution paths" />
-      <item value="detected" />
-      <item value="navigate to detected issues" />
-      <item value="to navigate to the functino declaration from this comment,place the caret at the function name in the comment and press ctrl + B" />
     </histories>
     <option name="languageScores">
       <map>
