@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="水桶" />
+      <item value="Bocket" />
+      <item value="water Well" />
+      <item value="井" />
+      <item value="water Whell" />
+      <item value="whell" />
+      <item value="tank" />
+      <item value="水缸" />
+      <item value="Cylinder" />
+      <item value="缸" />
       <item value="monk" />
       <item value="modk" />
       <item value="bocket" />
@@ -41,16 +51,6 @@
       <item value="context-aware code completion speeds up the process of coding and reduces a number of typos" />
       <item value="for example,let's comment out the selected block" />
       <item value="you can comment out a block of code" />
-      <item value="it is up to yo what to use" />
-      <item value="alternatively" />
-      <item value="it lets you search thorough all available actions without having to know their individaul shorcuts" />
-      <item value="shortcuts" />
-      <item value="one of the most useful shortcuts is find action" />
-      <item value="place the caret before any word" />
-      <item value="word" />
-      <item value="caret" />
-      <item value="expand and shrink the code selection" />
-      <item value="the context.CancelFunc is not called code inspection checks that is the cancel function returned by context.WithCancel and similar funcitons is called on all the execution paths" />
     </histories>
     <option name="languageScores">
       <map>
