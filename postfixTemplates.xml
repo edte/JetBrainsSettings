@@ -1,0 +1,16 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="sout@userDefined" key=".sout" provider="com.goide.postfix.GoPostfixTemplateProvider" topmost="false">
+      <conditions>
+        <condition id="non void" />
+      </conditions>
+      <template name="fakeKey" value="fmt.Println($EXPR$);$END$" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="souf@userDefined" key=".souf" provider="com.goide.postfix.GoPostfixTemplateProvider" topmost="false">
+      <conditions>
+        <condition id="non void" />
+      </conditions>
+      <template name="fakeKey" value="fmt.Printf(&quot;$END$&quot;, $EXPR$);" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+</application>
