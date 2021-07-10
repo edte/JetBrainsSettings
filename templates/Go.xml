@@ -1,10 +1,10 @@
 <templateSet group="Go">
-  <template name="sout" value="fmt.Println($END$)" toReformat="false" toShortenFQNames="true">
+  <template name="sout" value="fmt.Println($END$)" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="GO_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="souf" value="fmt.Printf($END$)" toReformat="false" toShortenFQNames="true">
+  <template name="souf" value="fmt.Printf($END$)" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="GO_STATEMENT" value="true" />
     </context>
