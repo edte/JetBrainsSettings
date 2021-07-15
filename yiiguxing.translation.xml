@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="反转" />
+      <item value="reserve" />
+      <item value="reverse" />
+      <item value="palette" />
       <item value="水桶" />
       <item value="Bocket" />
       <item value="water Well" />
@@ -47,19 +52,15 @@
       <item value="dump" />
       <item value="the caret now is at the end o the line 15" />
       <item value="smart type completion filters the list of suggetion to include only those types that are applicatble in the current context" />
-      <item value="select message inside the lookup menu and press enter" />
-      <item value="context-aware code completion speeds up the process of coding and reduces a number of typos" />
-      <item value="for example,let's comment out the selected block" />
-      <item value="you can comment out a block of code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="CHINESE" value="21" />
+        <entry key="ENGLISH" value="21" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619841271885" />
+    <option name="lastTrimTime" value="1625919127952" />
   </component>
 </application>
