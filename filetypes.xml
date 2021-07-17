@@ -3,6 +3,9 @@
     <extensionMap>
       <mapping ext="exe" type="AUTO_DETECTED" />
       <mapping pattern="doc" type="PLAIN_TEXT" />
+      <removed_mapping ext="bash" approved="true" type="Shell Script" />
+      <removed_mapping ext="sh" approved="true" type="Shell Script" />
+      <removed_mapping ext="zsh" approved="true" type="Shell Script" />
     </extensionMap>
   </component>
 </application>
