@@ -23,6 +23,9 @@
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="Go.NewGoFile">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
