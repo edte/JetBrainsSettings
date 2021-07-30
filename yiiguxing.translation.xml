@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="gobang" />
+      <item value="Entrance" />
       <item value="反转" />
       <item value="reserve" />
       <item value="reverse" />
@@ -50,8 +52,6 @@
       <item value="intention" />
       <item value="goland takes into account where your caret is" />
       <item value="dump" />
-      <item value="the caret now is at the end o the line 15" />
-      <item value="smart type completion filters the list of suggetion to include only those types that are applicatble in the current context" />
     </histories>
     <option name="languageScores">
       <map>
@@ -61,6 +61,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625919127952" />
+    <option name="lastTrimTime" value="1627659275560" />
   </component>
 </application>
