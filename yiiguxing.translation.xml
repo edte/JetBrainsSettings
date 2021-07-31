@@ -2,8 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="gobang" />
       <item value="Entrance" />
+      <item value="gobang" />
       <item value="反转" />
       <item value="reserve" />
       <item value="reverse" />
