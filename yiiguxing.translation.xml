@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="mortar" />
       <item value="Dispatch" />
       <item value="Receiver has a generic name" />
       <item value="Entrance" />
@@ -51,7 +52,6 @@
       <item value="intentions actions" />
       <item value="actions" />
       <item value="intentions" />
-      <item value="intention" />
     </histories>
     <option name="languageScores">
       <map>
@@ -61,6 +61,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627659275560" />
+    <option name="lastTrimTime" value="1628091538119" />
   </component>
 </application>
