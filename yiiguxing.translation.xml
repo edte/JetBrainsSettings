@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Dispatch" />
+      <item value="Receiver has a generic name" />
       <item value="Entrance" />
       <item value="gobang" />
       <item value="反转" />
@@ -50,8 +52,6 @@
       <item value="actions" />
       <item value="intentions" />
       <item value="intention" />
-      <item value="goland takes into account where your caret is" />
-      <item value="dump" />
     </histories>
     <option name="languageScores">
       <map>
