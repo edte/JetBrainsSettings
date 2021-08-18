@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="intervals" />
       <item value="mortar" />
       <item value="Dispatch" />
       <item value="Receiver has a generic name" />
@@ -51,16 +52,15 @@
       <item value="actions and templates that generate code chunks" />
       <item value="intentions actions" />
       <item value="actions" />
-      <item value="intentions" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="ENGLISH" value="22" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1628091538119" />
+    <option name="lastTrimTime" value="1629286732248" />
   </component>
 </application>
