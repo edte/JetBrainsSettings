@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="explicit" />
       <item value="prefex" />
       <item value="intervals" />
       <item value="mortar" />
@@ -51,7 +52,6 @@
       <item value="code completion suggests local variables and zero values even if they result in an error" />
       <item value="if the carets stays after the return keyword inside a function" />
       <item value="actions and templates that generate code chunks" />
-      <item value="intentions actions" />
     </histories>
     <option name="languageScores">
       <map>
