@@ -4,13 +4,19 @@
       <conditions>
         <condition id="non void" />
       </conditions>
-      <template name="fakeKey" value="fmt.Println($EXPR$);$END$" toReformat="true" toShortenFQNames="true" />
+      <template name="fakeKey" value="fmt.Println($EXPR$);$END$" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="int@userDefined" key=".for" provider="com.goide.postfix.GoPostfixTemplateProvider" topmost="true">
+      <conditions>
+        <condition id="number" />
+      </conditions>
+      <template name="fakeKey" value="for i := 0; i &lt; $EXPR$; i++ {&#10;    $END$&#10;}" toReformat="true" toShortenFQNames="true" />
     </template>
     <template id="souf@userDefined" key=".souf" provider="com.goide.postfix.GoPostfixTemplateProvider" topmost="false">
       <conditions>
         <condition id="non void" />
       </conditions>
-      <template name="fakeKey" value="fmt.Printf(&quot;$END$&quot;, $EXPR$);" toReformat="true" toShortenFQNames="true" />
+      <template name="fakeKey" value="fmt.Printf(&quot;$END$&quot;, $EXPR$);" description="" toReformat="true" toShortenFQNames="true" />
     </template>
   </component>
 </application>
