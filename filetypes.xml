@@ -2,8 +2,12 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="exe" type="AUTO_DETECTED" />
+      <mapping pattern="FILE_ID.DIZ" type="PLAIN_TEXT" />
       <mapping pattern="doc" type="PLAIN_TEXT" />
+      <mapping pattern="startup-sequence" type="PLAIN_TEXT" />
+      <mapping ext="nfo" type="PLAIN_TEXT" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
+      <removed_mapping ext="s" approved="true" type="x86 Plan9 Assembly" />
       <removed_mapping ext="sh" approved="true" type="Shell Script" />
       <removed_mapping ext="zsh" approved="true" type="Shell Script" />
     </extensionMap>
