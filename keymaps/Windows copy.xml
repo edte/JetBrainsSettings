@@ -14,12 +14,14 @@
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="shift alt f10" />
     <keyboard-shortcut first-keystroke="ctrl quote" />
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl space" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
-  <action id="ContextDebug">
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift f9" />
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="DuplicatesForm.SendToLeft" />
@@ -53,9 +55,8 @@
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
-  <action id="RunClass">
+  <action id="RunDashboard.Run">
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
-    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="ShowErrorDescription">
     <keyboard-shortcut first-keystroke="ctrl f1" />
@@ -75,5 +76,8 @@
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="ctrl f8" />
     <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="runShellFileAction">
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
   </action>
 </keymap>
