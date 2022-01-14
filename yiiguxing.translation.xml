@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Reserve" />
+      <item value="Reverse" />
       <item value="Copy" />
       <item value="explicit" />
       <item value="prefex" />
@@ -50,8 +52,6 @@
       <item value="specify parameter names even if they are omitted in the interface definition" />
       <item value="you can generate missing methods" />
       <item value="with implement methods action" />
-      <item value="code completion suggests local variables and zero values even if they result in an error" />
-      <item value="if the carets stays after the return keyword inside a function" />
     </histories>
     <option name="languageScores">
       <map>
