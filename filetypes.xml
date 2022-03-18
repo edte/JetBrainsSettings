@@ -6,6 +6,7 @@
       <mapping pattern="startup-sequence" type="PLAIN_TEXT" />
       <mapping pattern="doc" type="PLAIN_TEXT" />
       <mapping ext="nfo" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
       <removed_mapping ext="s" approved="true" type="x86 Plan9 Assembly" />
       <removed_mapping ext="sh" approved="true" type="Shell Script" />
